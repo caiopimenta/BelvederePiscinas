@@ -8,7 +8,7 @@ url: "http://belvederepiscinas.com.br" # the base hostname & protocol for your s
 instagram_username: belvederepiscinas
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 
 redcarpet:
